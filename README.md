@@ -1,3 +1,3 @@
 # Noise Localization
 
-The following codes serves as an example how to perform noise localization analysis
+The following codes serves as an example how to perform noise localization analysis.
